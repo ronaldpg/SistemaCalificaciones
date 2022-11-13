@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1667170458 source:d:\ejercicios code blocks\sistemacalificaciones\main.cpp
+	<iostream>
+	"Menu.h"
+	"Estructura.h"
+
+1667182335 d:\ejercicios code blocks\sistemacalificaciones\menu.h
+	"Estructura.h"
+	"RegistroN.h"
+	<string.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+
+1666926765 d:\ejercicios code blocks\sistemacalificaciones\estructura.h
+	"Menu.h"
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<fstream>
+
+1667182335 d:\ejercicios code blocks\sistemacalificaciones\registron.h
+	"Menu.h"
+
+1667224316 source:c:\users\usuario\downloads\sistemacalificaciones\main.cpp
+	<iostream>
+	"Menu.h"
+	"Estructura.h"
+
+1667224368 c:\users\usuario\downloads\sistemacalificaciones\menu.h
+	"Estructura.h"
+	"RegistroN.h"
+	<string.h>
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+
+1667224299 c:\users\usuario\downloads\sistemacalificaciones\estructura.h
+	"Menu.h"
+	<stdlib.h>
+	<conio.h>
+	<iostream>
+	<string.h>
+	<fstream>
+
+1667224299 c:\users\usuario\downloads\sistemacalificaciones\registron.h
+	"Menu.h"
+
